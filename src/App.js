@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
 import Display from './components/Display';
-import ButtonPannel from './components/ButtonPannel';
+import ButtonPanel from './components/ButtonPanel';
 
 function App() {
   return (
     <div>
       <Display result="0" />
-      <ButtonPannel />
+      <ButtonPanel />
     </div>
   );
 }

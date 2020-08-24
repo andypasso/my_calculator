@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from './Button';
 
-export default function ButtonPannel() {
+export default function ButtonPanel() {
   return (
     <div>
       <div>
