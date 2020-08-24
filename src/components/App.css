@@ -1,0 +1,6 @@
+.app {
+  display: flex;
+  height: 700px;
+  width: 400px;
+  flex-direction: column;
+}
