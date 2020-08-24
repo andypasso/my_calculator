@@ -12,5 +12,9 @@ export default function Display(props) {
 }
 
 Display.propTypes = {
-  result: PropTypes.string.isRequired,
+  result: PropTypes.string,
+};
+
+Display.defaultProps = {
+  result: '0',
 };

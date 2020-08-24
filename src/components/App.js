@@ -1,8 +1,7 @@
 import React from 'react';
-import 'normalize.css';
+import Display from './Display';
+import ButtonPanel from './ButtonPanel';
 import './App.css';
-import Display from './components/Display';
-import ButtonPanel from './components/ButtonPanel';
 
 function App() {
   return (

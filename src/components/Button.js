@@ -5,9 +5,9 @@ import './button.css';
 export default function Button(props) {
   const { name, color, wide } = props;
   return (
-    <div className={`btn ${color} ${wide ? 'wide' : null}`}>
+    <button type="button" className={`btn ${color} ${wide ? 'wide' : null}`}>
       { name }
-    </div>
+    </button>
   );
 }
 
