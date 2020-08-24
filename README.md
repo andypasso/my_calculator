@@ -11,7 +11,7 @@ this readme will be updated at the end of the last milestone
 
 > A calculator made in React.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://i.imgur.com/9iqpgRl.jpg)
 
 Additional description about the project and its features.
 
