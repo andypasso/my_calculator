@@ -1,0 +1,8 @@
+.panel {
+  display: flex;
+}
+
+.row {
+  display: flex;
+  height: 100px;
+}
