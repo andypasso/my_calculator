@@ -6,7 +6,7 @@ export default function Display(props) {
   const { result } = props;
   return (
     <div className="display">
-      {result}
+      {!result ? '0' : result }
     </div>
   );
 }
